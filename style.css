@@ -23,7 +23,7 @@ a:hover {
   align-items: center;
   flex-direction: column;
   text-align: center;
-  width: 300px;
+  width: 250px;
 }
 #weather .box .data {
   display: flex;
